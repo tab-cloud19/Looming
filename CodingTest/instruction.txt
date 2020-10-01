@@ -1,0 +1,4 @@
+Run command:
+bash mainbashfile.sh
+
+
